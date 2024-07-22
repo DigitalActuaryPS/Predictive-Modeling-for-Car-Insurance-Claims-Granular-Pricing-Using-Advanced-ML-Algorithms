@@ -1,0 +1,2 @@
+# Claim-Frequency-Modeling-for-Car-Insurance-Pricing-Using-Advanced-Machine-Learning-Algorithms
+This project enhances car insurance pricing by predicting claims frequency using Generalized Linear Models (GLM) and Gradient Boosting Machines (GBM) like CatBoost and GBR. It involves data preparation, EDA, model implementation, and feature importance analysis to improve risk assessment and pricing strategies.
